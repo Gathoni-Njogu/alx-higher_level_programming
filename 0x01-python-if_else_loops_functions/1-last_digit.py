@@ -9,5 +9,5 @@ if last_digit > 5:
     print(f"{the_str} and is greater than 5")
 elif last_digit == 0:
     print(f"{the_str} and is 0")
-elif last_digit <6:
+elif last_digit < 6:
     print(f"{the_str} and is less than 6 and not 0")
